@@ -1,0 +1,6 @@
+#ifndef HERO_H_INCLUDED
+#define HERO_H_INCLUDED
+
+
+
+#endif // HERO_H_INCLUDED
